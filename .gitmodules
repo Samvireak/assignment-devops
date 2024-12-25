@@ -1,0 +1,6 @@
+[submodule "backend-devops"]
+	path = backend-devops
+	url = https://github.com/Samvireak/backend-devops.git
+[submodule "frontend-devops"]
+	path = frontend-devops
+	url = https://github.com/Samvireak/frontend-devops.git
